@@ -199,7 +199,7 @@ This project is optimized for deployment on:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ Author: Abel sifuna
 
 Built with ❤️ to demonstrate modern React development practices.
 
